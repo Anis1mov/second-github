@@ -503,7 +503,7 @@ body {
       transition: all 0.2s ease 0s;
       &:focus {
         transform: scale(101%, 101%);
-        outline: 1px solid rgb(65, 65, 65);
+        border: 1px solid rgb(255, 255, 255);
       }
       @media (max-width: 500px) {
         padding: 0 18px;

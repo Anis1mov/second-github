@@ -711,7 +711,7 @@ body {
   -webkit-transform: scale(101%, 101%);
       -ms-transform: scale(101%, 101%);
           transform: scale(101%, 101%);
-  outline: 1px solid rgb(65, 65, 65);
+  border: 1px solid rgb(255, 255, 255);
 }
 @media (max-width: 500px) {
   .subscribe .subscribe__container input {
