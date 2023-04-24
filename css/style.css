@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------*/
 body {
   font-family: "DM Sans", sans-serif;
-  background: url(/img/Bg.png) 0 0/cover no-repeat;
+  background: url(../img/Bg.png) 0 0/cover no-repeat;
   background-color: #111827;
 }
 
@@ -452,7 +452,7 @@ body {
   margin: 0 auto;
 }
 .service .service__container .service__body .block-service .block-service__link:after {
-  content: url(/img/SERVICE/right-arrow.svg);
+  content: url(../img/SERVICE/right-arrow.svg);
   margin: 3px 0 0 10px;
   -webkit-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
@@ -752,7 +752,7 @@ body {
   }
 }
 .subscribe .subscribe__container button::before {
-  content: url(/img/telegram.svg);
+  content: url(../img/telegram.svg);
   margin: 0 8px 0 0;
 }
 .subscribe .subscribe__container button:hover {
@@ -830,7 +830,7 @@ body {
   }
 }
 .footer .footer__container .footer__block .footer__adress::before {
-  content: url("img/FOOTER/Location.svg");
+  content: url(../img/FOOTER/Location.svg);
   margin: 0 7px 0 0;
 }
 .footer .footer__container .footer__block .footer__number {
@@ -850,7 +850,7 @@ body {
   }
 }
 .footer .footer__container .footer__block .footer__number::before {
-  content: url(/img/FOOTER/phone.svg);
+  content: url(../img/FOOTER/phone.svg);
   margin: 0 7px 0 0;
 }
 .footer .footer__container .footer__block .footer__email {
@@ -870,7 +870,7 @@ body {
   }
 }
 .footer .footer__container .footer__block .footer__email::before {
-  content: url(/img/FOOTER/email.svg);
+  content: url(../img/FOOTER/email.svg);
   margin: 0 7px 0 0;
 }
 .footer .footer__container .footer__block .footer__media {
