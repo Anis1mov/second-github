@@ -830,7 +830,7 @@ body {
   }
 }
 .footer .footer__container .footer__block .footer__adress::before {
-  content: url(/img/FOOTER/Location.svg);
+  content: url("img/FOOTER/Location.svg");
   margin: 0 7px 0 0;
 }
 .footer .footer__container .footer__block .footer__number {
